@@ -19,6 +19,16 @@ The hidden word is: _ _ _ _ _ _
 Incorrect letters: []
 Pick a letter (or type 'HINT' for a clue):
 ```
+## 📸 Screenshots
+
+### Welcome Screen
+![Welcome Screen](welcome_screen.png)
+
+### Smart Hint System
+![Hint System](hint.png)
+
+### Victory Screen
+![Victory Screen](victory.png)
 
 ## Requirements
 
